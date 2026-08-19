@@ -89,9 +89,10 @@ main {
   --color-social-reaction-bg-hover: var(--color-scale-gray-1);
   --color-social-reaction-bg-reacted-hover: var(--color-scale-blue-1);
 }
-
+@import("https://cdn.jsdelivr.net/npm/@callmebill/lxgw-wenkai-web@latest/style.css")
 main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line.svg");
+  font-family: LXGW WenKai;
 }
 
 main .gsc-loading-image {

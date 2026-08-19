@@ -2,7 +2,7 @@
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
-
+@import("https://cdn.jsdelivr.net/npm/@callmebill/lxgw-wenkai-web@latest/style.css")
 main {
   --color-prettylights-syntax-comment: #8b949e;
   --color-prettylights-syntax-constant: #79c0ff;
@@ -92,6 +92,7 @@ main {
 
 main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line-dark.svg");
+  font-family: LXGW WenKai;
 }
 
 main .gsc-loading-image {
